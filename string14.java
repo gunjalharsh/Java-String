@@ -1,4 +1,4 @@
-package demo;
+
 import java.util.*;
 public class string14 {
 

@@ -1,5 +1,3 @@
-
-  
 import java.util.*;
 public class String6 {
 	
@@ -40,5 +38,3 @@ public class String6 {
 	
 
 }
-
-
